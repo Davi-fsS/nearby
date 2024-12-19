@@ -26,7 +26,7 @@ export function Categories({data, selected, onSelect}: Props){
         }
         horizontal
         showsHorizontalScrollIndicator={false}
-        contentContainerStyle={s.container}
-        style={s.content}
+        contentContainerStyle={s.content}
+        style={s.container}
     />
 }
